@@ -34,7 +34,7 @@
 #include <Magnum/GL/Context.h>
 #include <Magnum/GL/Shader.h>
 #include <Magnum/GL/Version.h>
-#include "lib/dll.cpp"
+#include "lib/dll.h"
 
 namespace Magnum { namespace Examples {
 
